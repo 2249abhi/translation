@@ -1,5 +1,5 @@
 {
-    "name": "translation",
+    "name": "module-translation",
     "description": "This package will do translations",
     "minimum-stability": "dev",
     "require": {
